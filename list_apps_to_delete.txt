@@ -46,8 +46,13 @@ app
   TouchAssistant
   StepsProvider
   Stk
+  SogouInput
   TranslationService
-  QuickSearchBox
+  QuickSearchBox  
+  VoiceAssist
+  XiaomiServiceFramework
+  XiaomiAccount
+  XiaomiVip
   WfdService
 
 priv-app
@@ -74,10 +79,6 @@ priv-app
   SharedStorageBackup
   Shell
   QtiTetherService
-  VoiceAssist
-  XiaomiServiceFramework
-  XiaomiAccount
-  XiaomiVip
   Weather
   WeatherProvider
   WallpaperCropper
