@@ -60,6 +60,8 @@ priv-app
   CellBroadcastReceiver
   CleanMaster
   CloudBackup
+  DownloadProvider
+  DownloadProviderUi
   MiDrop
   MiGameCenterSDKService
   Mipub
