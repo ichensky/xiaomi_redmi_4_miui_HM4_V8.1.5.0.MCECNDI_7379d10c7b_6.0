@@ -1,0 +1,103 @@
+rm -r /system/data-app
+
+app
+  AntiSpam
+  AnalyticsCore
+  BasicDreams
+  BugReport
+  Calculator
+  CallLogBackup
+  CloudService
+  DeskClock
+  Email
+  FileExplorer
+  jjcontainer
+  jjhome
+  jjknowledge
+  jjstore
+  Galaxy4
+  GameCenter
+  HoloSpiralWallpaper
+  HTMLViewer
+  KingSoftCleaner
+  KSICibaEngine
+  LiveWallpapers
+  LiveWallpapersPicker
+  Metok
+  MiLinkService
+  MiLivetalk
+  Mipay
+  MiPlay
+  MiuiScanner
+  MiuiSuperMarket
+  MiuiVideo
+  MiDrive
+  MiWallpaper
+  MiuiCompass
+  NetworkAssistant2
+  NoiseField
+  Notes
+  PaymentService
+  PicoTts
+  PrintSpooler
+  QtiFeedback
+  SoundRecorder
+  ThemeManager
+  TouchAssistant
+  StepsProvider
+  Stk
+  TranslationService
+  QuickSearchBox
+  WfdService
+
+priv-app
+
+  Backup
+  BackupRestoreConfirmation
+  Browser
+  Calendar
+  CalendarProvider
+  CellBroadcastReceiver
+  CleanMaster
+  CloudBackup
+  MiDrop
+  MiGameCenterSDKService
+  Mipub
+  MiuiGallery
+  MiuiVoip
+  Music
+  MusicFX
+  OneTimeInitializer
+  PackageInstaller
+  SharedStorageBackup
+  Shell
+  QtiTetherService
+  VoiceAssist
+  XiaomiServiceFramework
+  XiaomiAccount
+  XiaomiVip
+  Weather
+  WeatherProvider
+  WallpaperCropper
+  YellowPage
+
+--
+/data/data
+com.xiaomi.market
+
+--
+/system/vendor/app 
+imssettings
+colorservice
+
+--------
+-- couldn't delete --
+app 
+  GuardProvider
+  MiuiSuperMarket
+  SecurityAdd
+  SecurityCoreAdd
+  Updater
+priv-app
+  SecurityCenter
+
