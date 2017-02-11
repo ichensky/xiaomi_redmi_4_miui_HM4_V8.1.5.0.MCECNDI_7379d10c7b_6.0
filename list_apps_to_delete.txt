@@ -88,7 +88,9 @@ priv-app
 --
 /data/data
 com.xiaomi.market
-
+com.miui.home
+com.xiaomi.smarthome
+com.wali.live
 --
 /system/vendor/app 
 imssettings
