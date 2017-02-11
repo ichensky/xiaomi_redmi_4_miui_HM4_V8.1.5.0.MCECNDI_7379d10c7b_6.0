@@ -78,6 +78,7 @@ priv-app
   MusicFX
   OneTimeInitializer
   PackageInstaller
+  ProxyHandler
   SharedStorageBackup  
   QtiTetherService
   Weather
