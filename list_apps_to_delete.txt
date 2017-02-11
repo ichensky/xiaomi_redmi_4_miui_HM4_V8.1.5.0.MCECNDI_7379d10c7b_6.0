@@ -38,7 +38,10 @@ app
   PaymentService
   PicoTts
   PrintSpooler
+  QTITaskManager
   QtiFeedback
+  QtiGbaAuthService
+  QtiTelephonyService
   SoundRecorder
   ThemeManager
   TouchAssistant
@@ -75,8 +78,7 @@ priv-app
   MusicFX
   OneTimeInitializer
   PackageInstaller
-  SharedStorageBackup
-  Shell
+  SharedStorageBackup  
   QtiTetherService
   Weather
   WeatherProvider
@@ -102,4 +104,4 @@ app
   Updater
 priv-app
   SecurityCenter
-
+  Shell
