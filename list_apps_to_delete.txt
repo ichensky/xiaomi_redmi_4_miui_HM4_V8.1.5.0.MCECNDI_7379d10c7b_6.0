@@ -29,7 +29,6 @@ app
   Mipay
   MiPlay
   MiuiScanner
-  MiuiSuperMarket
   MiuiVideo
   MiDrive
   MiWallpaper
