@@ -6,7 +6,6 @@ app
   BasicDreams
   BugReport
   Calculator
-  CallLogBackup
   CloudService
   DeskClock
   Email
@@ -60,7 +59,8 @@ priv-app
   BackupRestoreConfirmation
   Browser
   Calendar
-  CalendarProvider
+  CalendarProvider  
+  CallLogBackup
   CellBroadcastReceiver
   CleanMaster
   CloudBackup
