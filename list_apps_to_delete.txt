@@ -111,3 +111,6 @@ priv-app
 -- needed for google -- 
 priv-app
   QtiTetherService  
+  
+  --
+  ProxyHandler  
