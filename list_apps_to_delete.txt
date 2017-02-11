@@ -80,7 +80,6 @@ priv-app
   PackageInstaller
   ProxyHandler
   SharedStorageBackup  
-  QtiTetherService
   Weather
   WeatherProvider
   WallpaperCropper
@@ -108,3 +107,7 @@ app
 priv-app
   SecurityCenter
   Shell
+  
+-- needed for google -- 
+priv-app
+  QtiTetherService  
