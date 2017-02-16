@@ -43,11 +43,12 @@ app
   QtiGbaAuthService
   QtiTelephonyService
   SoundRecorder
-  ThemeManager
-  TouchAssistant
+  SogouInput
   StepsProvider
   Stk
-  SogouInput
+  SystemAdSolution 
+  ThemeManager
+  TouchAssistant  
   TranslationService
   QuickSearchBox  
   VoiceAssist
@@ -113,3 +114,38 @@ priv-app
   QtiTetherService  
   PackageInstaller 
   DownloadProvider  
+===============================
+tried disable packages, but with part success:
+------------
+
+package:com.securespaces.android.trustagent
+package:com.android.documentsui
+package:com.securespaces.android.ssm.service
+package:com.amap.android.location
+
+
+
+pm disable org.secuso.privacyfriendlynetmonitor
+
+com.miui.securityadd
+com.miui.securitycenter
+com.miui.securitycore
+
+com.miui.guardprovider
+
+
+com.miui.powerkeeper
+
+com.miui.whetstone
+
+com.zzdc.fingerprinttest
+
+com.mi.AutoTest
+
+
+com.miui.fm
+
+com.xiaomi.finddevice
+
+com.xiaomi.pass
+com.xiaomi.market

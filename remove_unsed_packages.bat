@@ -1,0 +1,6 @@
+adb root
+adb shell "rm -r /system/data-app"
+adb shell "cd /data/data; rm -r com.xiaomi.market com.miui.home com.xiaomi.smarthome com.wali.live"
+adb shell "cd /system/vendor/app; rm -r imssettings colorservice"
+adb shell "cd /system/app; rm -r AntiSpam  AnalyticsCore  BasicDreams  BugReport  Calculator  CloudService  DeskClock  Email  FileExplorer  jjcontainer  jjhome  jjknowledge  jjstore  Galaxy4  GameCenter  HoloSpiralWallpaper  HTMLViewer  KingSoftCleaner  KSICibaEngine  LiveWallpapers  LiveWallpapersPicker  Metok  MiLinkService  MiLivetalk  Mipay  MiPlay  MiuiScanner  MiuiVideo  MiDrive  MiWallpaper  MiuiCompass  NetworkAssistant2  NoiseField  Notes  PaymentService  PicoTts  PrintSpooler  QtiFeedback QtiGbaAuthService QtiTelephonyService SoundRecorder SogouInput StepsProvider  Stk SystemAdSolution ThemeManager  TouchAssistant  TranslationService  QuickSearchBox    VoiceAssist  XiaomiServiceFramework  XiaomiAccount  XiaomiVip  WfdService"
+adb shell "cd /system/priv-app; rm -r   Backup  BackupRestoreConfirmation  Browser  Calendar  CalendarProvider  CallLogBackup  CellBroadcastReceiver  CleanMaster  CloudBackup  DownloadProviderUi  MiDrop  MiGameCenterSDKService  Mipub  MiuiGallery  MiuiVoip  Music  MusicFX  OneTimeInitializer  ProxyHandler  SharedStorageBackup Weather  WeatherProvider  WallpaperCropper  YellowPage"
